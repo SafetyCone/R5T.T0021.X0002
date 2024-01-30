@@ -3,8 +3,11 @@
 
 namespace R5T.T0021.X0002
 {
+    /// <summary>
+    /// Obsolete - See R5T.Z0066.
+    /// </summary>
     public static partial class FileNames
     {
-        public static string WithTwoFilExtensionSeparatorDots => "First.Second.txt";
+        public static string WithTwoFileExtensionSeparatorDots => "First.Second.txt";
     }
 }
